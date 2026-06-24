@@ -13,8 +13,8 @@
 ---
 
 ### 🛠 Tech
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react," align="center"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,"/>
   <h3 align="center">They are just for now</h3>
 </p>
 
